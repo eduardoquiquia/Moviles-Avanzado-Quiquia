@@ -1,3 +1,6 @@
 [submodule "Laboratorio00-Q"]
 	path = Laboratorio00-Q
 	url = https://github.com/eduardoquiquia/Laboratorio00-Q.git
+[submodule "Laboratorio2-PMA"]
+	path = Laboratorio2-PMA
+	url = https://github.com/eduardoquiquia/Laboratorio2-PMA.git
